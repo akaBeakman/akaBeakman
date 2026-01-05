@@ -1,4 +1,14 @@
-## Hi there 👋
+## Shane Albright
+
+I have nineteen years of information technology and information security experience in a variety of environments, including two publicly-traded companies, a public research university, and an [Information Sharing and Analysis Center \(ISAC\)](https://www.nationalisacs.org/about-isacs/). I possess a thorough understanding of information technology fundamentals as well as a great depth of knowledge and skill in the area of information security management and the design, deployment, operation, management, and continual improvement of IT infrastructure and services.
+
+You can learn more about me on my website: [akabeakman.com](https://akabeakman.com)
+
+### Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/salbright)
+* [Mastodon](https://infosec.exchange/@akaBeakman)
+* [Bluesky](https://bsky.app/profile/akabeakman.bsky.social)
 
 <!--
 **akaBeakman/akaBeakman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
